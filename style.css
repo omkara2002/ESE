@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #1F2833;
+}
+
+/* All Header files realated to upper side  */
+header {
+  width: auto;
+  height: 50px;
+  background-color: black;
+  color: #66FCF1;
+}
+
+/* header CSS files class    */
+.a {
+  background-color: black;
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.a li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: "Curirer New";
+  color: #66FCF1;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 1.5rem;
+  color: #C5C6C7;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #45A29E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  color: #C5C6C7;
+}
+
+a {
+  color: #C5C6C7;
+}
+
+li {
+  color: #C5C6C7;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.pro {
+  padding-top: 25px;
+  width: 25%;
+  height: 25%;
+  border-radius: 50%;
+}
+
+.leftt {
+  float: left;
+  padding-right: 30px;
+  width: 25%;
+}
+
+.rightt {
+  float: right;
+  padding-right: 30px;
+  width: 25%;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  color: grey;
+  width: 5%;
+}
+
+.bottom-container {
+  text-align: center;
+  background-color: #0B0C10;
+  padding: 30px;
+}
+
+.para {
+  color: #AAABB8;
+}
+
+.footer-link {
+  padding: 20px;
+}
